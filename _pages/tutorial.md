@@ -1,6 +1,6 @@
 ---
 title: "Tutorials"
-permalink: tutorials
+permalink: tutorial
 author_profile: true
 classes: wide
 header:
@@ -11,5 +11,6 @@ header:
 excerpt: "Here's a short background about myself"
 ---
 
+# Read the following documents:
 
-{% include coda4microbiome.html %}
+[Package presentation] (https://github.com/malucalle/coda4microbiome/blob/gh-pages/_includes/coda4microbiome.html)

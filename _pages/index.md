@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "coda4microbiome"
 permalink: index.html
 author_profile: true
 classes: wide
@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/about.jpg
   caption: "Photo by Malu Calle (c) 2021"  
-excerpt: "Project main page"
+excerpt: "Compositional Analysis for Microbiome Studies"
 ---
 
 
