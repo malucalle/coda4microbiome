@@ -14,4 +14,5 @@ excerpt: "Here's a short background about myself"
 # Read the following documents:
 
 [Package presentation] (/blob/gh-pages/_includes/coda4microbiome.html)
-[presentation] (https://numfactory.upc.edu)
+
+[A link to NF] (https://numfactory.upc.edu/)
