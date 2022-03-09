@@ -75,20 +75,20 @@ author:
   name   : "coda4microbiome"
   avatar : "/assets/images/mainLogo.jpg"
   bio    : " "
-  location: Vic - Catalonia - Spain
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mon.uvic.cat/bms/members/malu/?target=_blank"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/m-luz-calle-93239242/?target=_blank"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/malu_calle?lang=es/?target=_blank"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/malucalle/?target=_blank"
+  # location: Vic - Catalonia - Spain
+  # links:
+  #   - label: "Website"
+  #     icon: "fas fa-fw fa-link"
+  #     url: "https://mon.uvic.cat/bms/members/malu/?target=_blank"
+  #   - label: "LinkedIn"
+  #     icon: "fab fa-fw fa-linkedin-in"
+  #     url: "https://www.linkedin.com/in/m-luz-calle-93239242/?target=_blank"
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/malu_calle?lang=es/?target=_blank"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/malucalle/?target=_blank"
 
 
 
