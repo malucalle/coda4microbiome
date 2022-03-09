@@ -12,4 +12,4 @@ excerpt: "Compositional Analysis for Microbiome Studies"
 ---
 # Presentation 
 
-{% include coda4microbiome.html %} 
+<!--- {% include coda4microbiome.html %} --->
