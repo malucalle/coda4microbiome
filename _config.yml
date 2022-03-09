@@ -74,7 +74,7 @@ plugins:
 author:
   name   : "coda4microbiome"
   avatar : "/assets/images/mainLogo.jpg"
-  bio    : "Full Professor of Biostatistics and Bioinformatics and Head of the Biosciences Department. University of Vic- Central University of Catalonia"
+  bio    : " "
   location: Vic - Catalonia - Spain
   links:
     - label: "Website"
