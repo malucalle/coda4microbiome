@@ -10,6 +10,6 @@ header:
   caption: "Photo by Malu Calle (c) 2021"  
 excerpt: "Compositional Analysis for Microbiome Studies"
 ---
-# 
+# Presentation 
 
-<!--- {% include coda4microbiome.html %} --->
+{% include coda4microbiome.html %} 
