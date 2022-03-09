@@ -1,0 +1,21 @@
+a.fa-globe {
+    position: relative;
+    font-size: 2em;
+    color: grey;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  span.fa-comment {
+    position: absolute;
+    font-size: 0.6em;
+    top: -4px;
+    color: #2c631b;
+    right: -4px;
+  }
+  span.num {
+    position: absolute;
+    font-size: 0.3em;
+    top: 1px;
+    color: #fff;
+    right: 0px;
+  }
