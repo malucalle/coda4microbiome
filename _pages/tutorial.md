@@ -1,6 +1,6 @@
 ---
 title: "Tutorials"
-permalink: /tutorial
+permalink: /index.html
 author_profile: true
 classes: wide
 header:
