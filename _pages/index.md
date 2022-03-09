@@ -1,6 +1,6 @@
 ---
-title: "Tutorials"
-permalink: tutorials
+title: "Index"
+permalink: index.html
 author_profile: true
 classes: wide
 header:
@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/about.jpg
   caption: "Photo by Malu Calle (c) 2021"  
-excerpt: "Here's a short background about myself"
+excerpt: "Project main page"
 ---
 
 
