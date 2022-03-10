@@ -1,11 +1,11 @@
 main:
-  - title: "Tutorials"
-    url: /tutorial
   - title: "Blog"
     url: /blog
   - title: "Publications"
     url: /publications    
   - title: "About"
     url: /about
-  - title: "Index"
+  - title: "Tutorials"
+    url: /tutorial
+  - title: "Home"
     url: /index
