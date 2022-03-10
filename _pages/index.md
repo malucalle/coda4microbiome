@@ -1,6 +1,6 @@
 ---
 title: "coda4microbiome"
-permalink: index.html
+permalink: /index.html
 author_profile: true
 classes: wide
 header:

@@ -1,6 +1,6 @@
 ---
 title: "Tutorials"
-permalink: tutorial
+permalink: /tutorial
 author_profile: true
 classes: wide
 header:
@@ -15,4 +15,4 @@ excerpt: "Here's a short background about myself"
 
 [Package presentation] (/blob/gh-pages/_includes/coda4microbiome.html)
 
-[A link to NF] <https://numfactory.upc.edu/
+[A link to NF] <https://numfactory.upc.edu>
