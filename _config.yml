@@ -22,7 +22,7 @@ title: coda4microbiome
 # email: malu.calle@gmail.com
 logo: "/assets/images/microbioma1.png"
 description: "All you wanted to know about Compositional Data Analysis (CODA) for microbiome studies"
-baseurl: "" #"coda4microbiome" # the subpath of your site, e.g. /blog
+baseurl: "coda4microbiome" # the subpath of your site, e.g. /blog
 url: " " #"https://malucalle.github.io/coda4microbiome/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  #malu_calle
 github_username:  #malucalle
