@@ -46,4 +46,6 @@ He is member of several scientific societies: Eurographics Society, Societat Cat
 
 [ORCID](http://orcid.org/0000-0002-0874-2784){:target="_blank"},
 [LINKEDIN](https://www.linkedin.com/in/toni-susin-a150b143/){:target="_blank"},
-[GScholar](https://scholar.google.com/citations?user=cMgloHgAAAAJ&hl=ca&authuser=1){:target="_blank"},
+[GScholar](https://scholar.google.com/citations?user=cMgloHgAAAAJ&hl=ca&authuser=1){:target="_blank"}
+
+Feel free to reach out to me by email at `toni.susin [at] upc.edu` .
