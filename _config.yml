@@ -78,12 +78,15 @@ plugins:
 author:
   name   : "coda4microbiome"
   avatar : "/assets/images/mainLogo.jpg"
-  bio    : " "
-  # location: Vic - Catalonia - Spain
-  # links:
-  #   - label: "Website"
-  #     icon: "fas fa-fw fa-link"
-  #     url: "https://mon.uvic.cat/bms/members/malu/?target=_blank"
+  bio    : "Malu Calle & Toni Susin"
+  location: Vic - Catalonia - Spain
+  links:
+    - label: "Website Malu"
+      icon: "fas fa-fw fa-link"
+      url: "https://mon.uvic.cat/bms/members/malu/?target=_blank"
+    - label: "Website Toni"
+      icon: "fas fa-fw fa-link"
+      url: "https://web.mat.upc.edu/toni.susin/?target=_blank"
   #   - label: "LinkedIn"
   #     icon: "fab fa-fw fa-linkedin-in"
   #     url: "https://www.linkedin.com/in/m-luz-calle-93239242/?target=_blank"
