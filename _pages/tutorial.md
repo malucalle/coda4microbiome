@@ -8,11 +8,23 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/about.jpg
   caption: "Photo by Malu Calle (c) 2021"  
-excerpt: "Here's a short background about myself"
+excerpt: "Some examples to master the package"
 ---
 
-# Read the following documents:
+# Tutorial documents:
 
-[Package presentation] (/blob/gh-pages/_includes/coda4microbiome.html)
+## Package Introduction
 
-[A link to NF] <https://numfactory.upc.edu>
+ <https://numfactory.upc.edu/coda4microbiome/intro.html>
+ 
+ ## Explore log-ratios
+
+ <https://numfactory.upc.edu/coda4microbiome/explore_logratios.html>
+
+ ## Cross-sectional
+
+ <https://numfactory.upc.edu/coda4microbiome/cross_sectional.html>
+
+ ## Longitudinal
+
+ <https://numfactory.upc.edu/coda4microbiome/longitudinal.html>
