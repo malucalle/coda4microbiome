@@ -11,10 +11,6 @@ header:
 excerpt: "Compositional Data Analysis for Microbiome Studies"
 ---
 
-<p align="center">
-  <img src="./assets/images/coda4microbiome.jpg" width=400px />
-</p>
-
 # Presentation 
 
  We introduce a new package, **coda4microbiome**, that aims to bridge the gap between microbiome research and compositional data analysis (CoDA).
