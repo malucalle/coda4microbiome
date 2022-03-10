@@ -13,7 +13,7 @@ excerpt: "Compositional Data Analysis for Microbiome Studies"
 
 # Presentation 
 
- We introduce a new package, **coda4microbiome**, that aims to bridge the gap between microbiome research and compositional data analysis (CoDA).
+ We introduce a new package, **coda4microbiome**, available in CRAN, that aims to bridge the gap between microbiome research and compositional data analysis (CoDA).
 
 <p align="center">
   <img src="./assets/images/fillgap.png" width=700px />
