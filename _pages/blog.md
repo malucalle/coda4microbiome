@@ -11,5 +11,5 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/blog.jpg
   caption: "Sa Riera, Begur. Photo by Malu Calle (c) 2021"
-excerpt: "All about Compositional Analysis for Microbiome Studies, etc."
+excerpt: "All about Compositional Data Analysis for Microbiome Studies"
 ---

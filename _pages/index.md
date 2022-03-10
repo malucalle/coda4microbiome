@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/about.jpg
   caption: "Photo by Malu Calle (c) 2021"  
-excerpt: "Compositional Analysis for Microbiome Studies"
+excerpt: "Compositional Data Analysis for Microbiome Studies"
 ---
 
 <p align="center">
@@ -25,3 +25,5 @@ excerpt: "Compositional Analysis for Microbiome Studies"
 <p align="center">
   <img src="./assets/images/fillgap.png" width=700px />
 </p>
+
+Our package provides a set of functions to explore and study microbiome data within the CoDA framework, with a special focus on identification of **microbial signatures** that can serve as biomarkers of disease risk and prognostic. Their prediction accuracy relies on the selection of the taxa that constitute the signature, which is challenging given the sparsity, multivariate and **compositional** inherent characteristics of microbiome data (Susin et al. 2020). 
