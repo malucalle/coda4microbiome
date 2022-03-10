@@ -13,3 +13,8 @@ excerpt: "Publications"
 
 
 ## Publications
+
+
+Calle ML (2019) Statistical Analysis of Metagenomics Data. Genomics & Informatics 17 (1) <https://doi.org/10.5808/GI.2019.17.1.e6>
+
+Susin A., Wang Y, Lê Cao K-A, Calle M.L. (2020) Variable selection in microbiome compositional data analysis. NAR Genomics and Bioinformatics, Volume 2, Issue 2, June 2020, lqaa029, <https://doi.org/10.1093/nargab/lqaa029>
