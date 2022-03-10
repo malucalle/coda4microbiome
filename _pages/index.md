@@ -11,7 +11,7 @@ header:
 excerpt: "Compositional Analysis for Microbiome Studies"
 ---
 
-<img src="./assets/images/coda4microbiome.jpg" width=300 />
+<img src="./assets/images/coda4microbiome.jpg" width=400px />
 
 # Presentation 
 
