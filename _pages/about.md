@@ -30,7 +30,7 @@ Former President of the Spanish Region of the International Biometrics Society (
 [LINKEDIN](https://www.linkedin.com/pub/m-luz-calle/42/392/932){:target="_blank"},
 [SCOPUS](http://www.scopus.com/authid/detail.url?authorId=7003623814){:target="_blank"},
 [GScholar](http://scholar.google.se/citations?user=3tLnyBQAAAAJ&amp;hl=en){:target="_blank"},
-
+[GitHub](https://github.com/malucalle){:target="_blank"},
 
 Feel free to reach out to me by email at `malu.calle [at] uvic.cat` .
 
