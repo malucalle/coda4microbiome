@@ -11,7 +11,9 @@ header:
 excerpt: "Compositional Analysis for Microbiome Studies"
 ---
 
-<img src="./assets/images/coda4microbiome.jpg" width=400px />
+<p align="center">
+  <img src="./assets/images/coda4microbiome.jpg" width=400px />
+</p>
 
 # Presentation 
 
@@ -21,5 +23,5 @@ excerpt: "Compositional Analysis for Microbiome Studies"
 
  We introduce a new package, coda4microbiome, that aims to bridge the gap between microbiome research and compositional data analysis (CoDA).
 <p align="center">
-  <img src="./assets/images/fillgap.png" width=600px />
+  <img src="./assets/images/fillgap.png" width=700px />
 </p>
