@@ -16,9 +16,9 @@ excerpt: "Here's a short background about the team"
 
 M.Luz Calle is Full Professor of Biostatistics and Bioinformatics and Head of the Biosciences Department, University of Vic – Central University of Catalonia.
 
-With a background in Mathematics (BSc Mathematics, Universitat de Barcelona, 1986 and PhD in Mathematics, Universitat Politècnica de Catalunya, 1997), she teaches biostatistics, bioinformatics and genetic epidemiology in the Biotechnology degree and is the chair of the Master of Sciences in Omics Data Analysis, where she teaches the course “Statistical and data-mining methods for omics data analysis”.
+With a background in Mathematics (BSc Mathematics, Universitat de Barcelona, and PhD in Mathematics, Universitat Politècnica de Catalunya), she teaches Biostatistics and Bioinformatics in the Biotechnology degree and Statistical methods for omics data analysis in the Master of Sciences in Omics Data Analysis.
 
-She is the group leader of the Bionformatics and Medical Statistics Group of the University of Vic (consolidated group 2014SGR-596).
+She is the group leader of the Bionformatics and Medical Statistics Group of the University of Vic (consolidated group 2017SGR-199).
 
 Her main research areas are statistical genetics, omics data analysis, microbiome data analysis and survival analysis. She works on the development of new methods for biomarker discovery, identification of genetic risk profiles and construction of dynamic prediction and prognostic models of disease evolution. She is also interested in statistical methods for integration of multi-omics data and compositional data approaches in metagenomics.
 
@@ -38,7 +38,7 @@ Feel free to reach out to me by email at `malu.calle [at] uvic.cat` .
 
 Antonio Susin is an Associate Professor and department deputy director of the Mathematics Department at UPC-BarcelonaTech.
 
-With a background in Mathematics (BSc Mathematics, Universitat de Barcelona, 1985 and PhD in Mathematics, Universitat de Barcelona, 1993), he teaches numerical methods in the Engineering degree (ETSEIB) and computer animation in the MIRI Master (FIB) at the UPC-BarcelonaTech
+With a background in Mathematics (BSc and PhD in Mathematics, Universitat de Barcelona), he teaches numerical methods in the Engineering degree (ETSEIB) and computer animation in the MIRI Master (FIB) at the UPC-BarcelonaTech
 
 He is a member of the ViRVIG research group and member of the Biomechanics Lab at the same university. His main research area is numerical simulation with applications to computer animation, biomechanics and sports.
 
