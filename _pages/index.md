@@ -21,5 +21,5 @@ excerpt: "Compositional Analysis for Microbiome Studies"
 
  We introduce a new package, coda4microbiome, that aims to bridge the gap between microbiome research and compositional data analysis (CoDA).
 <p align="center">
-  <img src="/assets/images/fillgap.png" width=500px />
+  <img src="/assets/images/fillgap.png" width=600px />
 </p>
