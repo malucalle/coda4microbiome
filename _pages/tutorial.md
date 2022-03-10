@@ -17,14 +17,14 @@ excerpt: "Some examples to master the package"
 
  <https://numfactory.upc.edu/coda4microbiome/intro.html>
  
- ## Explore log-ratios
+## Explore log-ratios
 
  <https://numfactory.upc.edu/coda4microbiome/explore_logratios.html>
 
- ## Cross-sectional
+## Cross-sectional
 
  <https://numfactory.upc.edu/coda4microbiome/cross_sectional.html>
 
- ## Longitudinal
+## Longitudinal
 
  <https://numfactory.upc.edu/coda4microbiome/longitudinal.html>
