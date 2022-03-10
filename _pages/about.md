@@ -8,11 +8,11 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/main01.jpg
   caption: "Photo by Malu Calle (c) 2021"  
-excerpt: "Here's a short background about myself"
+excerpt: "Here's a short background about the team"
 ---
 
 
-## Bioscketch
+## Bioscketch: Malu Calle
 
 M.Luz Calle is Full Professor of Biostatistics and Bioinformatics and Head of the Biosciences Department, University of Vic – Central University of Catalonia.
 
@@ -32,6 +32,18 @@ Former President of the Spanish Region of the International Biometrics Society (
 [GScholar](http://scholar.google.se/citations?user=3tLnyBQAAAAJ&amp;hl=en){:target="_blank"},
 
 
-## Contact me
 Feel free to reach out to me by email at `malu.calle [at] uvic.cat` .
 
+## Bioscketch: Toni Susin
+
+Antonio Susin is an Associate Professor and department deputy director of the Mathematics Department at UPC-BarcelonaTech.
+
+With a background in Mathematics (BSc Mathematics, Universitat de Barcelona, 1985 and PhD in Mathematics, Universitat de Barcelona, 1993), he teaches numerical methods in the Engineering degree (ETSEIB) and computer animation in the MIRI Master (FIB) at the UPC-BarcelonaTech
+
+He is a member of the ViRVIG research group and member of the Biomechanics Lab at the same university. His main research area is numerical simulation with applications to computer animation, biomechanics and sports.
+
+He is member of several scientific societies: Eurographics Society, Societat Catalana de Matemàtiques. Former member of the Spanish chapter of Eurographcis (2017-2020).
+
+[ORCID](http://orcid.org/0000-0002-0874-2784){:target="_blank"},
+[LINKEDIN](https://www.linkedin.com/in/toni-susin-a150b143/){:target="_blank"},
+[GScholar](https://scholar.google.com/citations?user=cMgloHgAAAAJ&hl=ca&authuser=1){:target="_blank"},
