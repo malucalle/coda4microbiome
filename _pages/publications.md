@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 header:
   overlay_color: "#000"
-  overlay_filter: "0.0"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/main.jpg
   caption: "Tokio. Photo by Malu Calle (c) 2010"  
 excerpt: " "
