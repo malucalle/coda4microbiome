@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/main.jpg
   caption: "Tokio. Photo by Malu Calle (c) 2010"  
-excerpt: " "
+excerpt: "Publications and presentations "
 ---
 
 
