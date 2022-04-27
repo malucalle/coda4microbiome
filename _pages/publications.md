@@ -14,6 +14,8 @@ excerpt: "Publications and presentations "
 
 ## Publications
 
+Calle M.L. and Susin A. (2022) Identification of dynamic microbial signatures in longitudinal studies. BioRxiv. https://www.biorxiv.org/content/10.1101/2022.04.25.489415v1
+
 Susin A., Wang Y, Lê Cao K-A, Calle M.L. (2020) Variable selection in microbiome compositional data analysis. NAR Genomics and Bioinformatics, Volume 2, Issue 2, June 2020, lqaa029, <https://doi.org/10.1093/nargab/lqaa029>
 
 Calle ML (2019) Statistical Analysis of Metagenomics Data. Genomics & Informatics 17 (1) <https://doi.org/10.5808/GI.2019.17.1.e6>
