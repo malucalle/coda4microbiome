@@ -25,4 +25,4 @@ We will soon be teaching a course on microbiome analysis with **coda4microbiome*
 
 **Dates:** June 20 to 23, 2022. 
 
-**More information:** https://mesioupcub.masters.upc.edu/en/xv-summer-school-2022/courses/statistical-methods-for-microbiome-analysis
+**More information:** <https://mesioupcub.masters.upc.edu/en/xv-summer-school-2022/courses/statistical-methods-for-microbiome-analysis>
