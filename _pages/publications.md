@@ -14,6 +14,9 @@ excerpt: "Publications and presentations "
 
 ## Publications
 
+Calle M.L. and Susin A. (2022) coda4microbiome: compositional data analysis for microbiome studies. BioRxiv. 
+<https://www.biorxiv.org/content/10.1101/2022.06.09.495511v1>
+
 Calle M.L. and Susin A. (2022) Identification of dynamic microbial signatures in longitudinal studies. BioRxiv. <https://www.biorxiv.org/content/10.1101/2022.04.25.489415v1>
 
 Susin A., Wang Y, Lê Cao K-A, Calle M.L. (2020) Variable selection in microbiome compositional data analysis. NAR Genomics and Bioinformatics, Volume 2, Issue 2, June 2020, lqaa029, <https://doi.org/10.1093/nargab/lqaa029>
