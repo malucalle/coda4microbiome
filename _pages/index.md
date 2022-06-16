@@ -27,6 +27,9 @@ Our package provides a set of functions to explore and study microbiome data wit
 
 The interpretability of results is of major importance in this context. The package provides several graphical representations that facilitate the interpretation of the analysis and the identified microbial signatures.
 
+**Calle M.L. and Susin A.** (2022) coda4microbiome: compositional data analysis for microbiome studies. BioRxiv. 
+<https://www.biorxiv.org/content/10.1101/2022.06.09.495511v1>
+
 **Calle M.L. and Susin A.** (2022) Identification of dynamic microbial signatures in longitudinal studies. BioRxiv. <https://www.biorxiv.org/content/10.1101/2022.04.25.489415v1>
 
 **coda4microbiome**: <https://cran.r-project.org/web/packages/coda4microbiome/index.html>
