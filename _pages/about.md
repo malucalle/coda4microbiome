@@ -14,17 +14,17 @@ excerpt: "Here's a short background about the team"
 
 ## Bioscketch: Malu Calle
 
-M.Luz Calle is Full Professor of Biostatistics and Bioinformatics and Head of the Biosciences Department, University of Vic – Central University of Catalonia.
+M.Luz Calle is Full Professor of Biostatistics and Bioinformatics and Dean of the Faculty of Sciences, Technology and Engineering, University of Vic – Central University of Catalonia.
 
 With a background in Mathematics (BSc Mathematics, Universitat de Barcelona, and PhD in Mathematics, Universitat Politècnica de Catalunya), she teaches Biostatistics and Bioinformatics in the Biotechnology degree and Statistical methods for omics data analysis in the Master of Sciences in Omics Data Analysis.
 
-She is the group leader of the Bionformatics and Medical Statistics Group of the University of Vic (consolidated group 2017SGR-199).
+She is the group leader of the Bionformatics and Bioimaging Group of the University of Vic (consolidated group 2021SGR-01249) [BI-SQUARED](https://mon.uvic.cat/bi-squared/)
 
 Her main research areas are statistical genetics, omics data analysis, microbiome data analysis and survival analysis. She works on the development of new methods for biomarker discovery, identification of genetic risk profiles and construction of dynamic prediction and prognostic models of disease evolution. She is also interested in statistical methods for integration of multi-omics data and compositional data approaches in metagenomics.
 
 She is member of several scientific societies: Spanish Biostatistics Society, BiostatNet-Spanish National Network in Biostatistics, Catalan Statistical Society, Spanish Society of Statistics and Operational Research, International Biometric Society, International Genetic Epidemiology Society.
 
-Former President of the Spanish Region of the International Biometrics Society (2012-2013) and Vicepresident (2014).
+Former Head of the Biosciences Department (2018-2022), chair of the Master of Sciences in Omics Data Analysis (2012-2020), President and Vicepresident of the Spanish Region of the International Biometrics Society (2012-2013 and 2014, respectively).
 
 [ORCID](http://orcid.org/0000-0001-9334-415X){:target="_blank"},
 [LINKEDIN](https://www.linkedin.com/pub/m-luz-calle/42/392/932){:target="_blank"},
