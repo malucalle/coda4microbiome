@@ -10,6 +10,6 @@ header:
 excerpt: "My publications, research interests, projects I am working on and _further to be developed_ ideas"
 ---
 
-I do not do full-time Research. This is another hobby of mine, like music or photography.
+
 
 ## Publications
