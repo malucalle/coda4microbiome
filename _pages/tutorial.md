@@ -24,6 +24,11 @@ excerpt: "Some examples to master the package"
 
  <https://malucalle.github.io/statistical-pills/coda4microbiome_longitudinal.html>
 
+## Survival studies
+
+ <https://malucalle.github.io/statistical-pills/coda4microbiome_codacoxnet_Crohn.html>
+
 ## Log-ratio exploratory analysis
 
  <https://malucalle.github.io/statistical-pills/coda4microbiome_explore_logratios.html>
+
