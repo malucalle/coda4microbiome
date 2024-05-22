@@ -12,7 +12,7 @@ excerpt: "Here's a short background about the team"
 ---
 
 
-## Bioscketch: Malu Calle
+## Bioscketch:  Malu Calle
 
 M.Luz Calle is Full Professor of Biostatistics and Bioinformatics and Dean of the Faculty of Sciences, Technology and Engineering, University of Vic – Central University of Catalonia.
 
