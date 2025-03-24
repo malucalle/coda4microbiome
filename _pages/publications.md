@@ -16,7 +16,7 @@ excerpt: "Publications and presentations "
 
 Pujolassos, M., Susin A. and Calle M.L. (2024) Microbiome compositional data analysis for survival studies. NAR Genomics and Bioinformatics, Volume 6, Issue 2, June 2024, lqae038 <https://doi.org/10.1093/nargab/lqae038>
 
-Calle M.L., Pujolassos, M. and Susin A. (2023) coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies. BMC Bioinformatics volume 24, 82 <https://www.biorxiv.org/content/10.1101/2022.06.09.495511v1>
+Calle M.L., Pujolassos, M. and Susin A. (2023) coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies. BMC Bioinformatics volume 24, 82 <https://doi.org/10.1186/s12859-023-05205-3>
 
 Calle M.L. and Susin A. (2022) coda4microbiome: compositional data analysis for microbiome studies. BioRxiv. 
 <https://www.biorxiv.org/content/10.1101/2022.06.09.495511v1>
